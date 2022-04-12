@@ -1,0 +1,2 @@
+# deutf
+deutf token testnet
